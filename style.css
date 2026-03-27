@@ -53,7 +53,7 @@ header{
 header > h1{
     font-family: var(--font-android);
     color: rgb(255, 255, 255);
-    margin-bottom: 20px; /*Cria um espaçamento entre o h1 e o p*/
+    padding-bottom: 30px; /*Cria um espaçamento entre o h1 e o p*/
     text-shadow: 2px 2px 0px black;
     
 }
